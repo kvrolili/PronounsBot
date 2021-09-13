@@ -4,7 +4,7 @@
 a Discord bot that gets info off [pronouns.page](https://en.pronouns.page) using their API and makes it available in Discord
 
 #### how to host it by yourself
-```git clone https://github.com/lilichvn/PronounsBot```
+```git clone https://github.com/kvrolili/PronounsBot```
 
 ```cd PronounsBot```
 
