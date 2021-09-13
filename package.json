@@ -1,0 +1,22 @@
+{
+  "name": "idk",
+  "version": "0.0.1",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.0.4",
+    "express": "^4.17.1",
+    "jimp": "^0.16.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch"
+  ]
+}
