@@ -6,7 +6,7 @@
     "start": "node script.js"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.24.0",
     "discord.js": "^12.0.4",
     "express": "^4.17.1",
     "jimp": "^0.16.1"
